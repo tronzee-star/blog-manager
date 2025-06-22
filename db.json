@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "How to Start Blogging",
+      "content": "Blogging is a great way to share your thoughts.",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": 2,
+      "title": "Top 10 JavaScript Tips",
+      "content": "Tip #1: Use const and let instead of var...",
+      "author": "Bob Smith"
+    },
+    {
+      "id": 3,
+      "title": "CSS Tricks You Should Know",
+      "content": "Learn about Flexbox, Grid, and responsive units.",
+      "author": "Charlie Lee"
+    },
+    {
+      "id": 4,
+      "title": "Learning React in 2025",
+      "content": "React is still a great UI library with new features.",
+      "author": "Dana White"
+    },
+    {
+      "id": 5,
+      "title": "Simple Cooking Recipes",
+      "content": "Easy meals to cook at home with minimal ingredients.",
+      "author": "Emily Clark"
+    }
+  ]
+}
